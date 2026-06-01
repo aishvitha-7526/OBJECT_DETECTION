@@ -41,7 +41,7 @@ Real-Time-Object-Detection/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Real-Time-Object-Detection.git
+git clone https://github.com/aishvitha-7526/OBJECT_DETECTION.git
 ```
 
 2. Navigate to the project folder:
