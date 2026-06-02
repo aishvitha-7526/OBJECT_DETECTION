@@ -1,4 +1,4 @@
-# Real-Time Object Detection using YOLOv8
+# Real-Time Object Detection using YOLOv8-CITS2755
 
 ## Project Overview
 
